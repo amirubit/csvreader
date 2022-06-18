@@ -1,0 +1,7 @@
+C:\Users\aamir\source\repos\CSVReader\CSVReader\bin\Debug\CSVReader.exe.config
+C:\Users\aamir\source\repos\CSVReader\CSVReader\bin\Debug\CSVReader.exe
+C:\Users\aamir\source\repos\CSVReader\CSVReader\bin\Debug\CSVReader.pdb
+C:\Users\aamir\source\repos\CSVReader\CSVReader\obj\Debug\CSVReader.csprojAssemblyReference.cache
+C:\Users\aamir\source\repos\CSVReader\CSVReader\obj\Debug\CSVReader.csproj.CoreCompileInputs.cache
+C:\Users\aamir\source\repos\CSVReader\CSVReader\obj\Debug\CSVReader.exe
+C:\Users\aamir\source\repos\CSVReader\CSVReader\obj\Debug\CSVReader.pdb
